@@ -16,10 +16,10 @@ import (
 -----------------------------------------------------------------------------------
 
 	Test:
-	`go install github.com/aura-studio/dynamic/dyanmic-cli@test`
-	`dynamic-cli build github.com/aura-studio/testdynamic1@test`
-	`dynamic-cli build github.com/aura-studio/testdynamic2@test`
-	`go run ./testdynamic@test.go`
+		go install github.com/aura-studio/dynamic/dynamic-cli@test
+		dynamic-cli build github.com/aura-studio/testdynamic1@test
+		dynamic-cli build github.com/aura-studio/testdynamic2@test
+		go run ./testdynamic@test.go
 
 -----------------------------------------------------------------------------------
 */
